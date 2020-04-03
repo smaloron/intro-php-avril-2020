@@ -1,0 +1,19 @@
+Générateur de page html
+
+1. Formulaire de récolte des infos de la page
+
+- titre de la page
+- nom du fichier
+- texte de la page (textarea)
+- Une photo (upload)
+
+2. Traitement du Formulaire
+
+- Valider les saisies
+- Afficher la page (avec mise en tampon de la sortie)
+- Enregistrer cette page dans un fichier html (dossier sorties)
+
+3. Bonus
+
+- Une page qui liste toutes les images 
+- Une page qui liste toutes les pages html
